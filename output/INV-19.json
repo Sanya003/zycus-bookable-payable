@@ -1,0 +1,93 @@
+{
+  "file": "INV-19.pdf",
+  "payables": [
+    {
+      "invoice_number": "",
+      "invoice_date": "",
+      "due_date": "",
+      "invoice_type": "INVOICE",
+      "currency": "GHS",
+      "supplier": {
+        "name": "Account No. 1028243888660",
+        "supplier_id": "",
+        "address": "",
+        "vat_id": ""
+      },
+      "buyer": {
+        "company_code": "BOLTGROUP",
+        "business_unit_code": "EE004",
+        "location_code": "LOC_EE_001"
+      },
+      "payment_term_id": "",
+      "po_number": "",
+      "po_id": "",
+      "gross_total": "8045.40",
+      "subtotal": "",
+      "total_tax_amount": "1445.40",
+      "discount_amount": "",
+      "freight_charges": "",
+      "insurance_charges": "",
+      "extra_charges": "",
+      "excise_duties": "",
+      "taxes": [
+        {
+          "tax_type": "NHIL",
+          "tax_name": "NHIL(2.5%) GHC 165.00",
+          "tax_rate": "2.5",
+          "tax_amount": "165.00",
+          "tax_type_code": ""
+        },
+        {
+          "tax_type": "GETFund",
+          "tax_name": "(iii) | GETFund Levy (2.5%) GHC 165.00",
+          "tax_rate": "2.5",
+          "tax_amount": "165.00",
+          "tax_type_code": ""
+        },
+        {
+          "tax_type": "COVID",
+          "tax_name": "(iv) COVID-19 Levy (1%) GH 66.00",
+          "tax_rate": "1",
+          "tax_amount": "66.00",
+          "tax_type_code": ""
+        },
+        {
+          "tax_type": "VAT",
+          "tax_name": "(vi) VAT (15%) (i) GHC 1049.40",
+          "tax_rate": "15",
+          "tax_amount": "1049.40",
+          "tax_type_code": ""
+        }
+      ],
+      "line_items": [
+        {
+          "description": "Meal per head GHC GHC",
+          "item_type": "SERVICE",
+          "uom": "",
+          "quantity": "60",
+          "unit_price": "90.00",
+          "total": "5400.00",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "Transportation and Set up GHC GHC",
+          "item_type": "SERVICE",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "1200.00",
+          "total": "1200.00",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        }
+      ]
+    }
+  ],
+  "declined": []
+}

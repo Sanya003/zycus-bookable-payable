@@ -1,0 +1,37 @@
+{
+  "file": "INV-21.pdf",
+  "payables": [
+    {
+      "invoice_number": "9884313366",
+      "invoice_date": "2026-04-06",
+      "due_date": "2026-05-06",
+      "invoice_type": "INVOICE",
+      "currency": "",
+      "supplier": {
+        "name": "Oakhaven Partners LDA 2799-554 LINDA-A-VELHA",
+        "supplier_id": "",
+        "address": "",
+        "vat_id": "PT12964656"
+      },
+      "buyer": {
+        "company_code": "BOLTGROUP",
+        "business_unit_code": "",
+        "location_code": ""
+      },
+      "payment_term_id": "Net_30",
+      "po_number": "",
+      "po_id": "",
+      "gross_total": "4",
+      "subtotal": "",
+      "total_tax_amount": "",
+      "discount_amount": "",
+      "freight_charges": "",
+      "insurance_charges": "",
+      "extra_charges": "",
+      "excise_duties": "",
+      "taxes": [],
+      "line_items": []
+    }
+  ],
+  "declined": []
+}

@@ -1,0 +1,112 @@
+{
+  "file": "HLD-03.pdf",
+  "payables": [
+    {
+      "invoice_number": "",
+      "invoice_date": "2025-12-02",
+      "due_date": "2026-01-01",
+      "invoice_type": "INVOICE",
+      "currency": "EUR",
+      "supplier": {
+        "name": "Nota: Sobre estes produtos incidem ainda, os",
+        "supplier_id": "",
+        "address": "",
+        "vat_id": ""
+      },
+      "buyer": {
+        "company_code": "BOLTGROUP",
+        "business_unit_code": "GB001",
+        "location_code": "LOC_GB_001"
+      },
+      "payment_term_id": "Net_30",
+      "po_number": "",
+      "po_id": "",
+      "gross_total": "67.25",
+      "subtotal": "",
+      "total_tax_amount": "",
+      "discount_amount": "",
+      "freight_charges": "",
+      "insurance_charges": "",
+      "extra_charges": "",
+      "excise_duties": "",
+      "taxes": [],
+      "line_items": [
+        {
+          "description": "Ord UM Unitario % ou Valor Valor %. Valor, CX |TRINCA ALE T X CXE NTT",
+          "item_type": "SERVICE",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "59.51",
+          "total": "59.51",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "VAT",
+              "tax_name": "",
+              "tax_rate": "61.76",
+              "tax_amount": "",
+              "tax_type_code": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "invoice_number": "",
+      "invoice_date": "2025-12-02",
+      "due_date": "2026-01-01",
+      "invoice_type": "INVOICE",
+      "currency": "EUR",
+      "supplier": {
+        "name": "Nota: Sobre estes produtos incidem ainda, os",
+        "supplier_id": "",
+        "address": "",
+        "vat_id": ""
+      },
+      "buyer": {
+        "company_code": "BOLTGROUP",
+        "business_unit_code": "GB001",
+        "location_code": "LOC_GB_001"
+      },
+      "payment_term_id": "Net_30",
+      "po_number": "",
+      "po_id": "",
+      "gross_total": "67.25",
+      "subtotal": "",
+      "total_tax_amount": "",
+      "discount_amount": "",
+      "freight_charges": "",
+      "insurance_charges": "",
+      "extra_charges": "",
+      "excise_duties": "",
+      "taxes": [],
+      "line_items": [
+        {
+          "description": "Ord UM Unitario % ou Valor Valor %. Valor, CX |TRINCA ALE T X CXE NTT",
+          "item_type": "SERVICE",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "59.51",
+          "total": "59.51",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "VAT",
+              "tax_name": "",
+              "tax_rate": "61.76",
+              "tax_amount": "",
+              "tax_type_code": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "declined": []
+}

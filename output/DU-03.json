@@ -1,0 +1,176 @@
+{
+  "file": "DU-03.pdf",
+  "payables": [
+    {
+      "invoice_number": "",
+      "invoice_date": "",
+      "due_date": "",
+      "invoice_type": "INVOICE",
+      "currency": "USD",
+      "supplier": {
+        "name": "Cadence PTE. LTD. Invoice 74. Nov 0534",
+        "supplier_id": "",
+        "address": "",
+        "vat_id": ""
+      },
+      "buyer": {
+        "company_code": "BOLTGROUP",
+        "business_unit_code": "",
+        "location_code": ""
+      },
+      "payment_term_id": "Immediate",
+      "po_number": "",
+      "po_id": "",
+      "gross_total": "1040.06",
+      "subtotal": "",
+      "total_tax_amount": "0.00",
+      "discount_amount": "",
+      "freight_charges": "",
+      "insurance_charges": "",
+      "extra_charges": "",
+      "excise_duties": "",
+      "taxes": [
+        {
+          "tax_type": "GST",
+          "tax_name": "0% GST on sales 0.00 % 1,040.06 0.00",
+          "tax_rate": "0.00",
+          "tax_amount": "0.00",
+          "tax_type_code": ""
+        }
+      ],
+      "line_items": [
+        {
+          "description": "International Freight KG USD",
+          "item_type": "SERVICE",
+          "uom": "",
+          "quantity": "567.000",
+          "unit_price": "1.28",
+          "total": "725.76",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "Origin Terminal Handling KG USD",
+          "item_type": "SERVICE",
+          "uom": "",
+          "quantity": "567.000",
+          "unit_price": "0.10",
+          "total": "56.70",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "Documentation EA USD",
+          "item_type": "SERVICE",
+          "uom": "",
+          "quantity": "1.000",
+          "unit_price": "45.00",
+          "total": "45.00",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "Delivery KG USD",
+          "item_type": "SERVICE",
+          "uom": "",
+          "quantity": "567.000",
+          "unit_price": "0.04",
+          "total": "22.68",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "Pick-up KG USD",
+          "item_type": "SERVICE",
+          "uom": "",
+          "quantity": "567.000",
+          "unit_price": "0.18",
+          "total": "102.06",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "Customs D&/TWoxDBWs — - EA USD",
+          "item_type": "SERVICE",
+          "uom": "",
+          "quantity": "1.000",
+          "unit_price": "7.50",
+          "total": "7.50",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "Origin Documentation EA USD",
+          "item_type": "SERVICE",
+          "uom": "",
+          "quantity": "1.000",
+          "unit_price": "15.00",
+          "total": "15.00",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "Customs dEvTWwoxpews - EA USD",
+          "item_type": "SERVICE",
+          "uom": "",
+          "quantity": "1.000",
+          "unit_price": "15.00",
+          "total": "15.00",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "Import Carrier Manifest Filing EA USD",
+          "item_type": "SERVICE",
+          "uom": "",
+          "quantity": "1.000",
+          "unit_price": "5.00",
+          "total": "5.00",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "venvacxrpve Terminal KG USD",
+          "item_type": "SERVICE",
+          "uom": "",
+          "quantity": "567.000",
+          "unit_price": "0.08",
+          "total": "45.36",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        }
+      ]
+    }
+  ],
+  "declined": []
+}

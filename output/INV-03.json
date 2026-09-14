@@ -1,0 +1,59 @@
+{
+  "file": "INV-03.pdf",
+  "payables": [
+    {
+      "invoice_number": "INV-75162461",
+      "invoice_date": "2025-06-08",
+      "due_date": "2025-06-08",
+      "invoice_type": "INVOICE",
+      "currency": "ZAR",
+      "supplier": {
+        "name": "Item Description Quantity Unit Price VAT Amount ZAR",
+        "supplier_id": "",
+        "address": "",
+        "vat_id": "ZA218-81-057014"
+      },
+      "buyer": {
+        "company_code": "BOLTGROUP",
+        "business_unit_code": "ZA001",
+        "location_code": "LOC_ZA_001"
+      },
+      "payment_term_id": "Immediate",
+      "po_number": "PO-ZA218-81-057014",
+      "po_id": "",
+      "gross_total": "8550.00",
+      "subtotal": "",
+      "total_tax_amount": "",
+      "discount_amount": "",
+      "freight_charges": "",
+      "insurance_charges": "",
+      "extra_charges": "",
+      "excise_duties": "",
+      "taxes": [],
+      "line_items": [
+        {
+          "description": "ltem Contract Office cleaning - Contract",
+          "item_type": "SERVICE",
+          "uom": "",
+          "quantity": "1.00",
+          "unit_price": "7434.78",
+          "total": "7434.78",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "VAT",
+              "tax_name": "",
+              "tax_rate": "15",
+              "tax_amount": "",
+              "tax_type_code": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "declined": []
+}

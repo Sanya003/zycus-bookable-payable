@@ -1,0 +1,96 @@
+{
+  "file": "INV-06.pdf",
+  "payables": [
+    {
+      "invoice_number": "8527907727",
+      "invoice_date": "2025-04-07",
+      "due_date": "2025-04-07",
+      "invoice_type": "INVOICE",
+      "currency": "",
+      "supplier": {
+        "name": "Sub-total incl. VAT 1,633.98",
+        "supplier_id": "",
+        "address": "",
+        "vat_id": ""
+      },
+      "buyer": {
+        "company_code": "BOLTGROUP",
+        "business_unit_code": "ZA001",
+        "location_code": "LOC_ZA_001"
+      },
+      "payment_term_id": "Immediate",
+      "po_number": "",
+      "po_id": "",
+      "gross_total": "1683.98",
+      "subtotal": "",
+      "total_tax_amount": "",
+      "discount_amount": "",
+      "freight_charges": "",
+      "insurance_charges": "",
+      "extra_charges": "",
+      "excise_duties": "",
+      "taxes": [],
+      "line_items": [
+        {
+          "description": "estimated order value due to variable weight items, the addition of shopping bags, and any substitute items included in this order. Queries? Call our ",
+          "item_type": "SERVICE",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "30.",
+          "total": "30.",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        }
+      ]
+    },
+    {
+      "invoice_number": "8527907727",
+      "invoice_date": "2025-04-07",
+      "due_date": "2025-04-07",
+      "invoice_type": "INVOICE",
+      "currency": "",
+      "supplier": {
+        "name": "Sub-total incl. VAT 1,633.98",
+        "supplier_id": "",
+        "address": "",
+        "vat_id": ""
+      },
+      "buyer": {
+        "company_code": "BOLTGROUP",
+        "business_unit_code": "ZA001",
+        "location_code": "LOC_ZA_001"
+      },
+      "payment_term_id": "Immediate",
+      "po_number": "",
+      "po_id": "",
+      "gross_total": "1683.98",
+      "subtotal": "",
+      "total_tax_amount": "",
+      "discount_amount": "",
+      "freight_charges": "",
+      "insurance_charges": "",
+      "extra_charges": "",
+      "excise_duties": "",
+      "taxes": [],
+      "line_items": [
+        {
+          "description": "estimated order value due to variable weight items, the addition of shopping bags, and any substitute items included in this order. Queries? Call our ",
+          "item_type": "SERVICE",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "30.",
+          "total": "30.",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        }
+      ]
+    }
+  ],
+  "declined": []
+}

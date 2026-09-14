@@ -1,0 +1,37 @@
+{
+  "file": "INV-10.pdf",
+  "payables": [
+    {
+      "invoice_number": "",
+      "invoice_date": "2026-03-25",
+      "due_date": "2026-03-25",
+      "invoice_type": "INVOICE",
+      "currency": "",
+      "supplier": {
+        "name": "Rua do Ouro 15",
+        "supplier_id": "",
+        "address": "",
+        "vat_id": "EE398766194"
+      },
+      "buyer": {
+        "company_code": "BOLTGROUP",
+        "business_unit_code": "GB001",
+        "location_code": "LOC_GB_001"
+      },
+      "payment_term_id": "Immediate",
+      "po_number": "",
+      "po_id": "",
+      "gross_total": "479.27",
+      "subtotal": "",
+      "total_tax_amount": "",
+      "discount_amount": "",
+      "freight_charges": "",
+      "insurance_charges": "",
+      "extra_charges": "",
+      "excise_duties": "",
+      "taxes": [],
+      "line_items": []
+    }
+  ],
+  "declined": []
+}

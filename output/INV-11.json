@@ -1,0 +1,273 @@
+{
+  "file": "INV-11.pdf",
+  "payables": [
+    {
+      "invoice_number": "",
+      "invoice_date": "",
+      "due_date": "",
+      "invoice_type": "INVOICE",
+      "currency": "EUR",
+      "supplier": {
+        "name": "",
+        "supplier_id": "",
+        "address": "",
+        "vat_id": "EE398766194"
+      },
+      "buyer": {
+        "company_code": "BOLTGROUP",
+        "business_unit_code": "GB001",
+        "location_code": "LOC_GB_001"
+      },
+      "payment_term_id": "",
+      "po_number": "",
+      "po_id": "",
+      "gross_total": "83.21",
+      "subtotal": "",
+      "total_tax_amount": "",
+      "discount_amount": "",
+      "freight_charges": "",
+      "insurance_charges": "",
+      "extra_charges": "",
+      "excise_duties": "",
+      "taxes": [],
+      "line_items": [
+        {
+          "description": "ge Northwind OPERATIONS OU gz | Lindenstrasse",
+          "item_type": "SERVICE",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "15",
+          "total": "15",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "< EESTI Meridian Media zs Vastuvétja Consignee Gartenweg ——",
+          "item_type": "SERVICE",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "12",
+          "total": "12",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "Es Northwind Operations OU Dos Hermanas E-M __lena.tamm@blackpine-media.ee ay Parnu mnt es WWW hittps://cloverdale-mobility.ee",
+          "item_type": "SERVICE",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "43",
+          "total": "43",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "Te Markeerinaud. kohtade arv ia kauba nimetus. Marks and Nos. No of Pieces and Nature of Goods CTN spares",
+          "item_type": "SERVICE",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "3",
+          "total": "3",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "ight Volume Chargeable weight",
+          "item_type": "SERVICE",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "65",
+          "total": "65",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "(— Lisaandmed Additional information Selgitused Explanations KM VAT ) AGREED PICKUP FEE",
+          "item_type": "SERVICE",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "5.00",
+          "total": "5.00",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "VAT",
+              "tax_name": "",
+              "tax_rate": "24.0",
+              "tax_amount": "",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "TARNEKULUD",
+          "item_type": "SERVICE",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "53.40",
+          "total": "53.40",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "VAT",
+              "tax_name": "",
+              "tax_rate": "24.0",
+              "tax_amount": "",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "AGREED DELIVERY FEE",
+          "item_type": "SERVICE",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "5.00",
+          "total": "5.00",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "VAT",
+              "tax_name": "",
+              "tax_rate": "24.0",
+              "tax_amount": "",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "# * | BAF ( ) %",
+          "item_type": "SERVICE",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "3.70",
+          "total": "3.70",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "VAT",
+              "tax_name": "",
+              "tax_rate": "6.93",
+              "tax_amount": "",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "Hadas KM",
+          "item_type": "SERVICE",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "16.11",
+          "total": "16.11",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "VAT",
+              "tax_name": "",
+              "tax_rate": "24.0",
+              "tax_amount": "",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "megs ozs",
+          "item_type": "SERVICE",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "8",
+          "total": "8",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "S eaz",
+          "item_type": "SERVICE",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "2",
+          "total": "2",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "geste Seag",
+          "item_type": "SERVICE",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "2",
+          "total": "2",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "rE DUE DATE i =§ F AFTER DUE DATE Baht PREVA",
+          "item_type": "SERVICE",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "3",
+          "total": "3",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "Beige EUR He & Eksped Jonas Meyer —(alex.haas@brightsidle-mobility.ee",
+          "item_type": "SERVICE",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "5",
+          "total": "5",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        }
+      ]
+    }
+  ],
+  "declined": []
+}

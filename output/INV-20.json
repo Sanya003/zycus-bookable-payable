@@ -1,0 +1,59 @@
+{
+  "file": "INV-20.pdf",
+  "payables": [
+    {
+      "invoice_number": "20423591",
+      "invoice_date": "2026-02-16",
+      "due_date": "2026-03-08",
+      "invoice_type": "INVOICE",
+      "currency": "CHF",
+      "supplier": {
+        "name": "Cc : ib 7856147 eee",
+        "supplier_id": "",
+        "address": "",
+        "vat_id": ""
+      },
+      "buyer": {
+        "company_code": "BOLTGROUP",
+        "business_unit_code": "",
+        "location_code": ""
+      },
+      "payment_term_id": "Net_21",
+      "po_number": "",
+      "po_id": "",
+      "gross_total": "12.10",
+      "subtotal": "",
+      "total_tax_amount": "",
+      "discount_amount": "",
+      "freight_charges": "",
+      "insurance_charges": "",
+      "extra_charges": "",
+      "excise_duties": "",
+      "taxes": [],
+      "line_items": [
+        {
+          "description": "y King King Tony Cap / & quot Torx tip with T x mm =",
+          "item_type": "SERVICE",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "12.10",
+          "total": "12.10",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "VAT",
+              "tax_name": "",
+              "tax_rate": "8.10",
+              "tax_amount": "",
+              "tax_type_code": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "declined": []
+}

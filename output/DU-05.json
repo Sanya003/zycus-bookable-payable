@@ -1,0 +1,10 @@
+{
+  "file": "DU-05.pdf",
+  "payables": [],
+  "declined": [
+    {
+      "doc_type": "REVIEW",
+      "reason": "buyer unconfirmed — verify before booking"
+    }
+  ]
+}

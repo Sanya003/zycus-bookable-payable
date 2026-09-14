@@ -1,0 +1,37 @@
+{
+  "file": "INV-07.pdf",
+  "payables": [
+    {
+      "invoice_number": "",
+      "invoice_date": "2025-04-30",
+      "due_date": "2025-05-31",
+      "invoice_type": "INVOICE",
+      "currency": "ZAR",
+      "supplier": {
+        "name": "WESTERN CAPE CAPE TOWN 7405 EMER! South Africa",
+        "supplier_id": "",
+        "address": "",
+        "vat_id": ""
+      },
+      "buyer": {
+        "company_code": "BOLTGROUP",
+        "business_unit_code": "ZA001",
+        "location_code": "LOC_ZA_001"
+      },
+      "payment_term_id": "Net_30",
+      "po_number": "",
+      "po_id": "",
+      "gross_total": "6620.55",
+      "subtotal": "",
+      "total_tax_amount": "",
+      "discount_amount": "13110.00",
+      "freight_charges": "",
+      "insurance_charges": "",
+      "extra_charges": "",
+      "excise_duties": "",
+      "taxes": [],
+      "line_items": []
+    }
+  ],
+  "declined": []
+}

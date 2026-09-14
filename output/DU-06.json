@@ -1,0 +1,118 @@
+{
+  "file": "DU-06.pdf",
+  "payables": [
+    {
+      "invoice_number": "REF-841468",
+      "invoice_date": "2026-06-15",
+      "due_date": "2026-06-15",
+      "invoice_type": "INVOICE",
+      "currency": "EUR",
+      "supplier": {
+        "name": "Qta da Mendanha, OTAPARK,, Fragao AN, 2580-490 Carregado",
+        "supplier_id": "",
+        "address": "",
+        "vat_id": "PT28909636405289370959536"
+      },
+      "buyer": {
+        "company_code": "BOLTGROUP",
+        "business_unit_code": "",
+        "location_code": ""
+      },
+      "payment_term_id": "Immediate",
+      "po_number": "",
+      "po_id": "",
+      "gross_total": "153.58",
+      "subtotal": "",
+      "total_tax_amount": "15.38",
+      "discount_amount": "",
+      "freight_charges": "",
+      "insurance_charges": "",
+      "extra_charges": "",
+      "excise_duties": "",
+      "taxes": [
+        {
+          "tax_type": "VAT",
+          "tax_name": "804 Incidéncia 41,68 23,00% 9,59",
+          "tax_rate": "23.0",
+          "tax_amount": "9.59",
+          "tax_type_code": ""
+        },
+        {
+          "tax_type": "VAT",
+          "tax_name": "80120853 Incidéncia 96,52 6,00% 5,79",
+          "tax_rate": "6.0",
+          "tax_amount": "5.79",
+          "tax_type_code": ""
+        }
+      ],
+      "line_items": [
+        {
+          "description": "Empanadilha Atum Cozida ( u)",
+          "item_type": "SERVICE",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "41.68",
+          "total": "41.68",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "Pao Burger Brioch LeBrio px u",
+          "item_type": "SERVICE",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "28.43",
+          "total": "28.43",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "Chapata Cristallino px u",
+          "item_type": "SERVICE",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "25.94",
+          "total": "25.94",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "Pao Maestra Classica u",
+          "item_type": "SERVICE",
+          "uom": "",
+          "quantity": "2",
+          "unit_price": "13.43",
+          "total": "26.86",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "Pao Maestra Cereais u",
+          "item_type": "SERVICE",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "15.29",
+          "total": "15.29",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        }
+      ]
+    }
+  ],
+  "declined": []
+}

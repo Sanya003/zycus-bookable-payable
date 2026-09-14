@@ -1,0 +1,101 @@
+{
+  "file": "INV-15.pdf",
+  "payables": [
+    {
+      "invoice_number": "INV-8935",
+      "invoice_date": "2026-04-01",
+      "due_date": "2026-04-30",
+      "invoice_type": "INVOICE",
+      "currency": "GBP",
+      "supplier": {
+        "name": "Silverbrook Media Limited",
+        "supplier_id": "",
+        "address": "",
+        "vat_id": ""
+      },
+      "buyer": {
+        "company_code": "BOLTGROUP",
+        "business_unit_code": "",
+        "location_code": ""
+      },
+      "payment_term_id": "Net_30",
+      "po_number": "",
+      "po_id": "",
+      "gross_total": "29253.72",
+      "subtotal": "",
+      "total_tax_amount": "",
+      "discount_amount": "",
+      "freight_charges": "",
+      "insurance_charges": "",
+      "extra_charges": "",
+      "excise_duties": "",
+      "taxes": [],
+      "line_items": [
+        {
+          "description": "nd Floor Management Fee for May",
+          "item_type": "SERVICE",
+          "uom": "",
+          "quantity": "1.00",
+          "unit_price": "14620.18",
+          "total": "14620.18",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "VAT",
+              "tax_name": "",
+              "tax_rate": "20",
+              "tax_amount": "",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "Business Rates for May",
+          "item_type": "SERVICE",
+          "uom": "",
+          "quantity": "1.00",
+          "unit_price": "9987.50",
+          "total": "9987.50",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "VAT",
+              "tax_name": "0% / exempt",
+              "tax_rate": "0",
+              "tax_amount": "0.00",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "Utilities for May",
+          "item_type": "SERVICE",
+          "uom": "",
+          "quantity": "1.00",
+          "unit_price": "1435.00",
+          "total": "1435.00",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "VAT",
+              "tax_name": "",
+              "tax_rate": "20",
+              "tax_amount": "",
+              "tax_type_code": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "declined": []
+}

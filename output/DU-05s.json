@@ -1,0 +1,10 @@
+{
+  "file": "DU-05s.pdf",
+  "payables": [],
+  "declined": [
+    {
+      "doc_type": "DELIVERY",
+      "reason": "estimate/quotation, not a payable"
+    }
+  ]
+}

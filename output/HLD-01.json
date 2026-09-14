@@ -1,0 +1,51 @@
+{
+  "file": "HLD-01.pdf",
+  "payables": [
+    {
+      "invoice_number": "",
+      "invoice_date": "2569-05-05",
+      "due_date": "2569-05-05",
+      "invoice_type": "INVOICE",
+      "currency": "",
+      "supplier": {
+        "name": "",
+        "supplier_id": "",
+        "address": "",
+        "vat_id": ""
+      },
+      "buyer": {
+        "company_code": "BOLTGROUP",
+        "business_unit_code": "",
+        "location_code": ""
+      },
+      "payment_term_id": "Immediate",
+      "po_number": "",
+      "po_id": "",
+      "gross_total": "8161.92",
+      "subtotal": "",
+      "total_tax_amount": "",
+      "discount_amount": "",
+      "freight_charges": "",
+      "insurance_charges": "",
+      "extra_charges": "",
+      "excise_duties": "",
+      "taxes": [],
+      "line_items": [
+        {
+          "description": "The detail are as below:- Staff Units X Days } }",
+          "item_type": "SERVICE",
+          "uom": "",
+          "quantity": "2",
+          "unit_price": "600.00",
+          "total": "7200.00",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        }
+      ]
+    }
+  ],
+  "declined": []
+}

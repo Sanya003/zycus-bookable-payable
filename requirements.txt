@@ -1,0 +1,12 @@
+# Python dependencies
+rapidfuzz>=3.0        
+PyMuPDF>=1.23         
+
+# System (non-pip) dependencies expected on PATH:
+#   tesseract-ocr   — required by ocr.py (apt install tesseract-ocr)
+#   poppler-utils   — provides pdftoppm, preferred renderer in render.py
+#                     (apt install poppler-utils). If absent, render.py
+#                     falls back to PyMuPDF automatically.
+#
+# Install language packs for tesseract if you need non-English OCR, e.g.:
+#   apt install tesseract-ocr-deu tesseract-ocr-por tesseract-ocr-est

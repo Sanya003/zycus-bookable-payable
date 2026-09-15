@@ -1,4 +1,49 @@
 # The Bookable Payable
+
+## Requirements
+- Docker (tested on Docker Desktop 4.91.0 (239619) on Windows)
+- OR, to run without Docker: Python 3.11+, `tesseract-ocr` and `poppler-utils` installed and on PATH.
+
+## Run with Docker (recommended)
+ 
+From the repo root:
+
+```
+docker build -t bookable-payable .
+ 
+docker run --rm ^
+  -v "%cd%/documents:/app/documents:ro" ^
+  -v "%cd%/master_data:/app/master_data:ro" ^
+  -v "%cd%/output:/app/output" ^
+  bookable-payable
+```
+
+ 
+This processes every PDF in `documents/` and writes one JSON file per
+input to `output/`.
+ 
+---
+
+## Run without Docker
+ 
+```
+pip install -r requirements.txt
+python -m src.run documents work --stage all --output-dir output
+```
+ 
+`work/` is a scratch directory for intermediate OCR/classification/
+extraction artifacts (safe to delete between runs). 
+
+---
+
+## Diagnostics
+`work/drafts.json` includes an `erp_check` field per payable showing
+the printed gross vs. what `erp.py` recomputes from the emitted
+components, useful for spotting which documents aren't booking and by
+how much.
+
+---
+
 ### A 3–4 day engineering challenge
 
 > You will build a system that turns a supplier document into records an accounting system can book. This is not a document-extraction task, though it will look like one for the first few hours. Read the whole brief — including the last section — before you write anything.
